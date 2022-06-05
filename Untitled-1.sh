@@ -12,7 +12,7 @@ while [ $x = 0 ] do
 
 read Mom
 
-case "$mom" in
+case "$Mom" in
     1)
         type="lana"
         Sex=20
