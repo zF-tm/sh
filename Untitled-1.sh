@@ -26,4 +26,5 @@ case "$mom" in
         Sex=900
         mommy=90;; 
 esac
+echo "u chose $type and ur sex level $Sex and ur mommy level is $mommy"
 done
